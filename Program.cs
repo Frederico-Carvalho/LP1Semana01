@@ -6,7 +6,8 @@ namespace LP1Semana01
     {
         private static void Main(string[] args)
         {
-            Console.WriteLine("Hello LP1!");
+            Console.WriteLine("Hello world!");
+            Console.WriteLine("Bye world!");
         }
     }
 }
