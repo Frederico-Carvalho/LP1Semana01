@@ -17,6 +17,9 @@ namespace VariousTypes
             double d = 3.1415;
             decimal e = 3.1415m;
             float f = 3.1415f; 
+            
+            bool verdadeiro = true;
+            bool falso = false;
 
             Console.WriteLine(a);
             Console.WriteLine(b);
@@ -27,6 +30,8 @@ namespace VariousTypes
             Console.WriteLine(letra);
             Console.WriteLine(matematica);
             Console.WriteLine(simbolo);
+            Console.WriteLine(verdadeiro);
+            Console.WriteLine(falso);
             
         }
     }
